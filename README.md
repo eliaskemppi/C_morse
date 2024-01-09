@@ -1,3 +1,5 @@
+majority of the code is in morsecopy.c
+
 Short instructions and description:
 
 Use syntax ./morse [file1] [file2]
